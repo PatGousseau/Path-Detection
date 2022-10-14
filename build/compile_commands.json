@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/patrick/Documents/Path-Detection/build",
+  "command": "/usr/bin/g++   -isystem /usr/local/include/opencv4  -g   -o CMakeFiles/path_detector.dir/main.cpp.o -c /home/patrick/Documents/Path-Detection/main.cpp",
+  "file": "/home/patrick/Documents/Path-Detection/main.cpp"
+}
+]
