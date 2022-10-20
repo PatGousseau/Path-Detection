@@ -3,6 +3,10 @@
 
 CMakeFiles/path_detector.dir/main.cpp.o
  /home/patrick/Documents/Path-Detection/main.cpp
+ /home/patrick/Documents/Path-Detection/object_detector.cpp
+ /home/patrick/Documents/Path-Detection/object_detector.hpp
+ /home/patrick/Documents/Path-Detection/path_detector.cpp
+ /home/patrick/Documents/Path-Detection/path_detector.h
  /usr/local/include/opencv4/opencv2/calib3d.hpp
  /usr/local/include/opencv4/opencv2/core.hpp
  /usr/local/include/opencv4/opencv2/core/affine.hpp
